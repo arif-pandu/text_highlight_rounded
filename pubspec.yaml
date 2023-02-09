@@ -1,6 +1,6 @@
 name: text_highlight_rounded
 description: A Flutter package which provide custom Text Widget looks like Instagram Story highlighted rounded text
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/arif-pandu/text_highlight_rounded
 
 environment:

@@ -69,4 +69,3 @@ HighlightTextRounded(
 - `double` bold;
 - `bool` isAllCornerRound;
 
-
