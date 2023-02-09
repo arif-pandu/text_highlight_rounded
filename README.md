@@ -21,7 +21,7 @@ HighlightTextRounded(
 ```
 
 <a href="https://github.com/arif-pandu/text_highlight_rounded/tree/main/example/2.png">
-   <img src="example/3.png" alt="example-2" width=400>
+   <img src="example/2.png" alt="example-2" width=400>
 </a>
 
 ```dart
