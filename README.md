@@ -6,8 +6,8 @@ A custom widget which provides rounded highlighted text, made with painter
 
 ## Example
 
-<a href="https://github.com/arif-pandu/text_highlight_rounded/tree/main/example/1.png">
-   <img src="example/1.png" alt="example-1" width=400>
+<a href="https://github.com/arif-pandu/text_highlight_rounded/blob/main/example/1.png">
+   <img src="https://github.com/arif-pandu/text_highlight_rounded/blob/main/example/1.png?raw=true" alt="example-1" width=400>
 </a>
 
 
@@ -20,8 +20,8 @@ HighlightTextRounded(
 ),
 ```
 
-<a href="https://github.com/arif-pandu/text_highlight_rounded/tree/main/example/2.png">
-   <img src="example/2.png" alt="example-2" width=400>
+<a href="https://github.com/arif-pandu/text_highlight_rounded/blob/main/example/2.png">
+   <img src="https://github.com/arif-pandu/text_highlight_rounded/blob/main/example/2.png?raw=true" alt="example-2" width=400>
 </a>
 
 ```dart
@@ -39,10 +39,8 @@ HighlightTextRounded(
     ),
 ),
 ```
-
-
-<a href="https://github.com/arif-pandu/text_highlight_rounded/tree/main/example/3.png">
-   <img src="example/3.png" alt="example-3" width=400>
+<a href="https://github.com/arif-pandu/text_highlight_rounded/blob/main/example/3.png">
+   <img src="https://github.com/arif-pandu/text_highlight_rounded/blob/main/example/3.png?raw=true" alt="example-3" width=400>
 </a>
 
 ```dart
